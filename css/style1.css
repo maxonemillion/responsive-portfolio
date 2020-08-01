@@ -1,0 +1,26 @@
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+ul {
+    text-align: right;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    color: black;
+    border-color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
