@@ -14,5 +14,6 @@ To run my project, follow the "deployable application" link below and use the na
 ![project screeshot](images/screenshot.png)
 
 ## LINKS
-Github:
-Deployable Application:
+Github: https://github.com/maxonemillion/responsive-portfolio
+
+Deployable Application: https://maxonemillion.github.io/responsive-portfolio/
