@@ -20,13 +20,12 @@ button {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
+    height: 842px;
+    width: 561px;
 }
 
 .footer {
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
