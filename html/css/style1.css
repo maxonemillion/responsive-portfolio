@@ -25,3 +25,18 @@ img {
     margin-right: auto;
     width: auto;
 }
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: green;
+}

@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+.p1 {
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+hr {
+    width: 75%;
+}
+
+img {
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: green;
+}
