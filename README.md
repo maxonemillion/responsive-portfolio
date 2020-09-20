@@ -11,7 +11,7 @@ I learned how to build a basic responsive website using Bootstrap documentation.
 To run my project, follow the "deployable application" link below and use the navigation bar across the top to reach different pages on the site.
 
 ## SCREENSHOT 
-![project screeshot](images/screenshot.png)
+![project screeshot](html/screenshot.png)
 
 ## LINKS
 Github: https://github.com/maxonemillion/responsive-portfolio
