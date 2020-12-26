@@ -10,6 +10,6 @@ HTML, CSS, Bootstrap.
 
 ## SCREENSHOT: 
 
-## Contact
+## CONTACT
 * max.daniel@utah.edu
 * [LinkedIn](https://www.linkedin.com/in/maximilian-daniel1/ "Link to LinkedIn page")
