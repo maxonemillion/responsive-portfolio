@@ -1,15 +1,15 @@
 # Portfolio 
 
-### VIEW:
+## VIEW:
 View my updated portfolio [here](https://maxonemillion.github.io/responsive-portfolio "Link to updated portfolio").
 
 [Here](https://github.com/maxonemillion/responsive-portfolio "Link to github repository") is the github repository.
 
-### USES:
+## USES:
 HTML, CSS, Bootstrap.
 
-### SCREENSHOT: 
+## SCREENSHOT: 
 
-### Contact
+## Contact
 * max.daniel@utah.edu
 * [LinkedIn](https://www.linkedin.com/in/maximilian-daniel1/ "Link to LinkedIn page")
