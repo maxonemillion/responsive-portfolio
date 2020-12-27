@@ -3,8 +3,6 @@
 ### VIEW:
 View my updated portfolio [here](https://maxonemillion.github.io/responsive-portfolio "Link to updated portfolio").
 
-[Here](https://github.com/maxonemillion/responsive-portfolio "Link to github repository") is the github repository.
-
 ### USES:
 HTML, CSS, Bootstrap.
 
