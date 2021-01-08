@@ -1,0 +1,90 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    font-family: 'Raleway', sans-serif;
+    background: url("../assets/phone2 copy.jpg") no-repeat center fixed;
+    background-size: cover;  
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 75px;
+    padding-top: 20px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 55px;
+}
+
+.nav-link {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.boxed {
+    background-color: rgb(255, 255, 255);
+    padding-top: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+.info {
+    font-size: 30px;
+}
+
+a:link {
+    color: rgb(82, 82, 82);
+}
+
+a:visited {
+    color: rgb(59, 99, 59);
+}
+
+@media screen and (max-width: 1000px) {
+    
+    body {
+        background: url("../assets/vertphone5\ copy.jpg") no-repeat center fixed;
+        background-size: cover;
+        
+      }
+  
+    h1 {
+        font-size: 35px;
+        font-weight: 500;
+        color: rgb(80, 80, 80);
+        text-align: center;
+        font-family: 'Raleway', sans-serif;
+      }
+  
+      a {
+        font-size: 18px;
+      }
+
+      .info {
+        text-align: center;
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+    }
+    
+    }
